@@ -1,5 +1,4 @@
 ShowBUDDY
-
 ShowBUDDY is a responsive web application that allows users to explore and discover information about TV shows, movies, and celebrities. The application leverages the TVMaze API for fetching detailed information about shows, providing an intuitive and user-friendly interface.
 
 Features
@@ -14,5 +13,5 @@ Frameworks/Libraries: Axios for API requests, Swiper for the carousel
 API: TVMaze API for fetching show-related data
 Getting Started
 Clone the repository.
-Open main.html in your preferred web browser.
+Open index.html in your preferred web browser.
 Explore shows, movies, and celebrities with the user-friendly interface.
