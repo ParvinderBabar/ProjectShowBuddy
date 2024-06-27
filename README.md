@@ -1,6 +1,6 @@
-<img width="1266" alt="Screenshot 2024-01-21 171947" src="https://github.com/ParvinderBabar/ProjectShowBuddy/assets/125162844/1f4f3ebd-d6c3-4ad3-92e9-c6f8167a6a4b">
-<img width="1277" alt="Screenshot 2024-01-17 185622" src="https://github.com/ParvinderBabar/ProjectShowBuddy/assets/125162844/12da30b7-8c79-432c-8580-1e09cbac372f">
-# ShowBuddy
+
+
+## ShowBuddy
 
 Welcome to the ShowBuddy project! ShowBuddy is a web application that allows users to search for and explore information about TV shows, movies, and celebrities. It provides a user-friendly interface for discovering details about your favorite entertainment content.
 
@@ -12,6 +12,8 @@ Welcome to the ShowBuddy project! ShowBuddy is a web application that allows use
 - Explore detailed information about shows and movies.
 - Get insights into the shows and details of celebrities.
 - shows the upcoming shows streaming.
+- <img width="1266" alt="Screenshot 2024-01-21 171947" src="https://github.com/ParvinderBabar/ProjectShowBuddy/assets/125162844/1f4f3ebd-d6c3-4ad3-92e9-c6f8167a6a4b">
+<img width="1277" alt="Screenshot 2024-01-17 185622" src="https://github.com/ParvinderBabar/ProjectShowBuddy/assets/125162844/12da30b7-8c79-432c-8580-1e09cbac372f">
   
 # Technologies Used
 ## Frontend:
